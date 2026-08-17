@@ -7,8 +7,6 @@
 ## 🌐 Live Interactive Demo & Source Notice 🚀
 
 * 🔗 **Live Application Demo:** [Experience SnapClass on Streamlit](https://sumitssr123-attendai-app-gz0hpv.streamlit.app/)
-* 🔒 **Repository Status:** *Please note that the GitHub repository and source code have been made private for personal reasons.* However, the full end-to-end interactive application is actively hosted and accessible via the live demo link above! 🎉
-
 ---
 
 ## 🎯 The Core Problem & Solution 💡
